@@ -1,0 +1,2 @@
+Operation Pit Wall - Solution
+This is my solution to GDGC Cloud Recruitment Problem Statement 2. This was my first project as well so I tried as many ways to do it as possible and did the best out of all those.I set up everything up on my UBUNTU VM-@Dante and worked through it as a Linux task-restoring a downed telemetry server,securing it against further attacks, and bringing race telemetry back online before the race begins.
