@@ -163,6 +163,5 @@ Verified with:
 ```bash
 sudo ufw status verbose
 ```
-Full output saved in [`configs/ufw_rules.txt`](configs/ufw_rules.txt).
 
 I allowed 22 before enabling the firewall specifically to avoid getting locked out of my own SSH session — default-deny-incoming would otherwise cut off SSH access immediately on enable.
